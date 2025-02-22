@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("hey funny storry maddie but u forgot that u lied about being in bad condition the whole time so u make us feell ike ur a victim me and sorrow. thanks for that lmao good luck with ur script and no updates")
+game.ReplicatedStoarage.MainEvent:FireServer("CHECKER_4")
